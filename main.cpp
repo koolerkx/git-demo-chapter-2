@@ -23,5 +23,11 @@ int main() {
 	// Step 4.2：Squashで合併するコミット
 	std::cout << "合併するコミット" << std::endl;
 
+	// Step 5.1：Fixupで合併されるコミット
+	std::cout << "合併されるコミット" << std::endl;
+
+	// Step 5.2：Fixupで合併されるコミット
+	std::cout << "合併されるコミット" << std::endl;
+
 	return 0;
 }
