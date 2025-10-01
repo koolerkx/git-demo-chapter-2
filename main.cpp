@@ -8,6 +8,9 @@ int main() {
 	std::cout << "この文字列と適当に好きなものに変えよう" << std::endl;
 
 
+	// STEP 2：このコミットのメッセージを変えよう
+	std::cout << "このコミットのメッセージを変えよう" << std::endl;
+
 
 	return 0;
 }
