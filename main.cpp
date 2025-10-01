@@ -17,5 +17,11 @@ int main() {
 	// Step 3：コミットの順番を入れ替えよう
 	std::cout << "コミットの順番を入れ替えよう" << std::endl;
 
+	// Step 4.1：Squashで合併されるコミット
+	std::cout << "合併されるコミット" << std::endl;
+
+	// Step 4.2：Squashで合併するコミット
+	std::cout << "合併するコミット" << std::endl;
+
 	return 0;
 }
